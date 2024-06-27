@@ -113,7 +113,7 @@ h3 {
 .header {
     height: 95vh;
     /* border: 20px solid black; */
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('header-image.jpg');
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('header-image2.jpg');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
